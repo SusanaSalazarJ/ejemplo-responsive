@@ -25,3 +25,15 @@
 .sct-contenedor {
     display: flex;
 }
+
+
+/*  significa @: instruccion */
+
+@media all and (min-width: 540px) {
+    .amarillo {
+        width: 40%;
+    }
+    .rojo {
+        width: 40%;
+    }
+}
