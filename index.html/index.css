@@ -1,0 +1,27 @@
+.verde {
+    width: 100%;
+    height: 70px;
+    background: green;
+}
+
+.amarillo {
+    width: 100%;
+    height: 70px;
+    background: yellow;
+}
+
+.rojo {
+    width: 100%;
+    height: 70px;
+    background: red;
+}
+
+.azul {
+    width: 100%;
+    height: 70px;
+    background: blue;
+}
+
+.sct-contenedor {
+    display: flex;
+}
